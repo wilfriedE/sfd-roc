@@ -40,6 +40,12 @@ Project License
 ----
 [GPL v3.0](https://github.com/thequbit/mc911feedwatcher/blob/master/LICENSE)
 
+[DayCast](https://github.com/wilfriedE/viewcast)
+==== 
+Recording your day.
+Project Members 
+----
+ - [Wilfried Hounyo (wilfriedE)](http://github.com/wilfriedE/)
 
 <br/>
 <br/>
